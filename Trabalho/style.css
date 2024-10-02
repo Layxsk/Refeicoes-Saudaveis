@@ -1,0 +1,355 @@
+*{ 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container0{
+    background-color: #f8e1c6;
+    justify-items: center;
+    margin:0;
+}
+ul{
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    font-size: medium;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+a{
+    text-decoration:none;
+    color: black;
+    font-weight: bold;
+}
+.b1{
+    border-style: none;
+    background-color: #E67E22;
+    color: white;
+    border-radius: 10px;
+    height: 30px;
+    font-weight: bold;
+}
+.b1:hover{
+    background-color: #FFCA91;
+    color: black;
+}
+.text1{
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flexbox;
+}
+.minT{
+    width: 430px;
+    padding-left: 150px;
+    margin-bottom: 30px;
+    color:  rgb(80, 79, 79);
+}
+h3{
+    font-size: 3vw;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: black;
+}
+.b2{
+    margin-left: 150px;
+    background-color: #E67E22;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    height: 40px;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+.b2:hover{
+    background-color: #FFCA91;
+    color: black;
+}
+.b3{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border-style: none;
+    height: 40px;
+    width: 140px;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.b3:hover{
+    background-color: #FFCA91;;
+    color: black;
+}
+.ini{
+    width: 38vw;
+    margin-left: 720px;
+    margin-top: -420px;
+    margin-bottom: 100px;
+
+}
+.fotos_C{
+    width: 450px;
+    height: 50px;
+    padding-left: 150px;
+    display: flex;
+    align-items: center;
+}
+.c1{
+    width: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-radius: 50%;
+    margin-right: -12px;
+    margin-top: 20px;
+}
+.c2{
+    width: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-radius: 50%;
+    margin-right: -12px;
+    margin-top: 20px;
+}
+.c3{
+    width: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-radius: 50%;
+    margin-right: -12px;
+    margin-top: 20px;
+}
+.c4{
+    width: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-radius: 50%;
+    margin-right: -12px;
+    margin-top: 20px;
+}
+.c5{
+    width: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-radius: 50%;
+    margin-right: -12px;
+    margin-top: 20px;
+}
+.c6{
+    width: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-radius: 50%;
+    margin-right: -12px;
+    margin-top: 20px;
+}
+.pessoa{
+    color: rgb(80, 79, 79);
+    font-weight: bolder;
+    align-self: center;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.destaque{
+    background-color: #ffffff;
+    display: flexbox;
+    justify-content: center;
+    align-content: center;
+}
+.dest{
+    text-align: center;
+    color: gray;
+    font-size: medium;
+    text-transform: uppercase;
+    margin-top: 65px;
+}
+.logo_p1{
+    filter: grayscale(100%);
+    margin-left: 150px;
+    width: 220px;
+}
+
+.logo_p2{
+    filter: grayscale(100%);
+    margin-left: 40px;
+    width: 100px;
+}
+.logo_p3{
+    filter: grayscale(100%);
+    margin-left: 40px;
+    width: 200px;
+}
+
+.logo_p4{
+    filter: grayscale(100%);
+    margin-left: 40px;
+    width: 150px;
+}
+
+.logo_p5{
+    filter: grayscale(100%);
+    margin-left: 40px;
+    width: 180px;
+}
+.Como_Fun{
+    margin-left: 150px;
+}
+
+.fun{
+    color: #E67E22;
+    font-weight: 1000;
+    font-size: large;  
+    margin-top: 150px;  
+}
+h4{
+    font-size: 5vh;
+    margin-top: 20px;
+    color: rgb(80, 79, 79)
+}
+.Tut1{
+    display: inline-flexbox;
+    flex-direction:row;
+    width: 600px;
+    position: relative;
+}
+.num1{
+    margin-left: 150px;
+    margin-top: 100px;
+    margin-bottom: -20px;
+    font-size: 13vh;
+    font-weight: bolder;
+    color: rgb(196, 195, 195);
+}
+.disc1{
+    margin-left: 150px;
+    font-weight: bolder;
+    font-size: 4vh;
+    color: rgb(45, 45, 45);
+    width: 400px;
+}
+.text2{
+    margin-left: 150px;
+    color: rgb(80, 80, 80);
+    font-size: medium;
+    line-height: 1.5;
+    width: 450px;
+}
+
+.celular1{
+    width: 55%;
+    margin-left: 750px;
+    margin-top: -300px;
+}
+.Tut2{
+    display: inline-flexbox;
+    flex-direction:row;
+    width: 550px;
+    position: relative;
+    margin-top: 90px;
+}
+.celular2{
+    width: 55%;
+    margin-left: 250px;
+}
+.num2{
+    margin-left: 700px;
+    margin-top: -330px;
+    margin-bottom: -20px;
+    font-size: 13vh;
+    font-weight: bolder;
+    color: rgb(196, 195, 195);
+}
+.disc2{
+    margin-left: 700px;
+    width: 450px;
+    font-weight: bolder;
+    font-size: 4vh;
+    color: rgb(45, 45, 45);
+}
+.text3{
+    margin-left: 700px;
+    color: rgb(80, 80, 80);
+    font-size: medium;
+    line-height: 1.5;
+    width: 450px;
+}
+.Tut3{
+    display: inline-flexbox;
+    flex-direction:row;
+    width: 600px;
+    position: relative;
+    margin-top: 300px;
+}
+.num3{
+    margin-left: 150px;
+    margin-top: 100px;
+    margin-bottom: -20px;
+    font-size: 13vh;
+    font-weight: bolder;
+    color: rgb(196, 195, 195);
+}
+.disc3{
+    margin-left: 150px;
+    font-weight: bolder;
+    font-size: 4vh;
+    color: rgb(45, 45, 45);
+    width: 550px;
+}
+.text4{
+    margin-left: 150px;
+    color: rgb(80, 80, 80);
+    font-size: medium;
+    line-height: 1.5;
+    width:480px;
+}
+
+.celular3{
+    width: 55%;
+    margin-left: 780px;
+    margin-top: -300px;
+}
+.rodape{
+    margin-top: 250px;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+}
+.mini_logos img{
+    width: 30px;
+    gap: 15px;
+    margin-top: 20px;
+}
+.insta{
+    margin-left: 150px;
+    margin-right: 15px;
+}
+.facebook{
+    margin-right: 15px;
+}
+.conta{
+    margin-left: 30px;
+}
+
+.contato, .cont, .Empre, .recur{
+    color: rgb(77, 77, 77);
+    font-weight: bold;
+    font-size: 3vh;
+}
+
+.loc, .tipos_conta, .tipos_empresa, .tipos_recur{
+   color: rgb(117, 116, 116);
+}
+.tipos_empresa{
+    width:100px;
+}
+.tipos_recur{
+    width: 100px;
+}
